@@ -1,4 +1,7 @@
+/*
+Cambios Requeridos para la generación de Tablas y registros de estas para su utilización en la generación de reportes de 24 horas de todas las entidades
 
+*/
 
 
 
